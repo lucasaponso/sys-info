@@ -1,0 +1,3 @@
+/home/aponso/projects/sys-info/build/CMakeFiles/sys-info.dir
+/home/aponso/projects/sys-info/build/CMakeFiles/edit_cache.dir
+/home/aponso/projects/sys-info/build/CMakeFiles/rebuild_cache.dir
