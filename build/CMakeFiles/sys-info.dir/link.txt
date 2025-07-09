@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/sys-info.dir/link.d "CMakeFiles/sys-info.dir/src/main.cpp.o" -o /home/aponso/projects/sys-info/bin/sys-info
