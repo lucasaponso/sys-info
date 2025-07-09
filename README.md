@@ -7,3 +7,19 @@ mkdir build && cd build
 cmake .. -DCMAKE_INSTALL_PREFIX=/usr/local -DBUILD_TOOLS=ON -DBUILD_SHARED_LIBS=ON
 make -j$(nproc)
 sudo make install
+
+
+
+
+
+
+
+
+JSON LIB INSTALL
+git clone https://github.com/nlohmann/json.git
+cd json
+mkdir build
+cd build
+cmake ..
+sudo make install
+
